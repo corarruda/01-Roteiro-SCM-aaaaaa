@@ -60,6 +60,13 @@ body {
     padding: 2rem;
 }
 
+
+h1 {
+    color: #2ecc71;
+    font-size: 3rem;
+    text-align: left;
+}
+
 .hero-content h1 {
     font-size: 2.5rem;
     margin-bottom: 1rem;
